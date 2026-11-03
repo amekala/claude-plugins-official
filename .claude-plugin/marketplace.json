@@ -450,7 +450,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-data-analytics",
         "ref": "main",
-        "sha": "0d6167ad2e6dfb858098c4162fe74d04c975532f"
+        "sha": "8b32dfe0f91144b0e5d3fef487c515cb93ce0fb2"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
